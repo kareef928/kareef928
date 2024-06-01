@@ -1,5 +1,6 @@
-## Hi there 👋
+I am a former Master's Student in Biomedical Engineering at Johns Hopkins University, with a focus in Biomedical Data Science.
 
+I am currently a research assistant in the NeuroData Lab, where I have utilized big data statistical techniques to design, build, study, and apply methodologies aimed at understanding and improving both animal and machine intelligence systems.
 <!--
 **kareef928/kareef928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
